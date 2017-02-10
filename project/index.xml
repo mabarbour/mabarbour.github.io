@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Evolutionary Ecology of Food Webs</title>
+    <link>https://mabarbour.github.io/project/index.xml</link>
+    <description>Recent content in Projects on Evolutionary Ecology of Food Webs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Matt Barbour</copyright>
+    <lastBuildDate>Mon, 06 Feb 2017 11:24:11 +0100</lastBuildDate>
+    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Predicting Network Structure</title>
+      <link>https://mabarbour.github.io/project/PredictStructure/</link>
+      <pubDate>Mon, 06 Feb 2017 11:24:11 +0100</pubDate>
+      
+      <guid>https://mabarbour.github.io/project/PredictStructure/</guid>
+      <description>&lt;p&gt;From a practical standpoint, it is much easier to survey the diversity and composition of species, rather than the strength and organization of species interactions. However, it is difficult to predict community dynamics unless the network structure of species interactions is known. Therefore, it is critical that we develop phylogenetic and trait-based models to be able to predict the structure of species interactions for any given community. Predictive models have been developed to some extent for aquatic food webs, where body size is a key determinant of trophic interactions. Body size, however, is much less important for the parasitic interactions that characterize plant-herbivore-parasitoid networks. Taking advantage of a global dataset on insect herbivore-parasitoid interactions (14,184 species interactions, Figure 1), I am developing a predictive model for this ecological network based on the phylogeny and functional traits of both herbivores and parasitoids. 
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://mabarbour.github.io/img/prey_pred_openord.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Network of feeding interactions between 5,556 parasitoid (black dots) and 2,210 herbivore (blue dots) species.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coevolution and Community Dynamics</title>
+      <link>https://mabarbour.github.io/project/Coevolution/</link>
+      <pubDate>Mon, 06 Feb 2017 11:23:49 +0100</pubDate>
+      
+      <guid>https://mabarbour.github.io/project/Coevolution/</guid>
+      <description>
+
+&lt;h2 id=&#34;coevolution-of-predator-prey-interactions&#34;&gt;Coevolution of predator-prey interactions&lt;/h2&gt;
+
+&lt;p&gt;One of the most fundamental interactions in an ecological network is that between predators and their prey. Many prey approach, inspect, and signal toward their predators. These behaviours are thought to function as predator-deterrent signals – honest signals that indicate to a predator that continued hunting is likely to be futile. However, most studies neglect to test whether free-ranging predators respond adaptively to these signals, resulting in uncertainty as to whether coevolution is maintaining prey-signalling behaviour. I conducted systematic field observations of free-ranging rattlesnake responses to tail-flagging displays given by ground squirrels. I discovered that snakes were less likely to strike at tail-flagging squirrels because these signals honestly advertise a squirrel&amp;rsquo;s readiness to dodge an attack. Moreover, rattlesnakes abandoned ambush sites soon after receiving tail-flag displays because these displays simultaneously signalled the snake’s presence to nearby squirrels, thereby reducing the probability of a snake capturing nearby prey. By demonstrating the adaptive response of rattlesnakes to tail-flag displays, my work provides one of the best empirical examples of coevolution maintaining predator-deterrent signals &lt;a href=&#34;https://mabarbour.github.io/pdf/Barbour_2012-Proc_B.pdf&#34;&gt;(Barbour and Clark 2012)&lt;/a&gt;.&lt;div class=&#34;embed video-player&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/RIaRZivDdwk&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;ecological-character-displacement-and-community-stability&#34;&gt;Ecological character displacement and community stability&lt;/h2&gt;
+
+&lt;p&gt;The coevolutionary process is thought to be a primary driver of Earth&amp;rsquo;s biodiversity. Because of this, coevolution is commonly thought to be a potent stabilizing force in species interactions. For example, the coevolution of competitors often leads to niche partitioning and character displacement, thereby promoting coexistence between competitors. Using a mathematical model, I discovered that ecological character displacement could hinder species coexistence when the dynamics of both consumers and resources are taken into account (Barbour and Rudman, manuscript in prep). Character displacement destabilizes the community because selection favours consumers that are more efficient at exploiting resources, which dominates the stabilizing effects of niche partitioning. This result overturns traditional thinking that character displacement promotes species coexistence. Furthermore, these modelling results are supported by empirical data of consumer-resource interactions from one of the most well-studied examples of ecological character displacement (threespine stickleback). Ultimately, this suggests that coevolutionary processes may not always lead to increased community stability, as is often assumed, and therefore future research is warranted.
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://mabarbour.github.io/img/ecd_drawing.svg.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Mathematical model of ecological character displacement. Blue and red arrows represent positive and negative effects on population growth rates, respectively.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feedbacks between genetic variation and network structure</title>
+      <link>https://mabarbour.github.io/project/EcoEvoWeb/</link>
+      <pubDate>Mon, 06 Feb 2017 11:23:24 +0100</pubDate>
+      
+      <guid>https://mabarbour.github.io/project/EcoEvoWeb/</guid>
+      <description>
+
+&lt;h2 id=&#34;intraspecific-genetic-variation-rightarrow-network-structure&#34;&gt;Intraspecific genetic variation $\Rightarrow$ Network Structure&lt;/h2&gt;
+
+&lt;p&gt;Network theory has provided a quantitative approach for predicting how the gain or loss of species will affect the structure and dynamics of ecological communities. Representing a network at the species level, however, makes the implicit assumption that each species consists of a homogenous population of individuals, all of which interact equally with individuals of different species. Since genetic and phenotypic variation is a characteristic of virtually all wild populations, there is a clear need to test whether heritable trait variation scales up to affect network structure. Using a common garden experiment, quantitative genetics, and a computer simulation, I discovered that different host-plant genotypes supported unique compositions of herbivore species &lt;a href=&#34;https://mabarbour.github.io/publication/func_ecol_2015/&#34; target=&#34;_blank&#34;&gt;(Barbour et al. 2015)&lt;/a&gt; and herbivore-parasitoid interactions, resulting in a 20% increase in food-web complexity over the range of genetic variation in the host-plant population &lt;a href=&#34;https://mabarbour.github.io/publication/pnas_2016/&#34; target=&#34;_blank&#34;&gt;(Barbour et al. 2016)&lt;/a&gt;. My study provided the first evidence that intraspecific genetic variation is capable of increasing network complexity. Given that network complexity is known to buffer ecological communities from perturbations, my research predicts that processes that alter genetic variation within a population (e.g. natural selection, genetic drift, gene flow, and mutation) will affect the persistence of communities in the face of environmental change. To test this prediction, I am currently initiating lab experiments using model communities of Arabidopsis thaliana, four species of aphids, and two species of parasitic wasps, at the University of Zurich.&lt;/p&gt;
+
+&lt;h2 id=&#34;network-structure-rightarrow-intraspecific-genetic-variation&#34;&gt;Network structure $\Rightarrow$ Intraspecific Genetic Variation&lt;/h2&gt;
+
+&lt;p&gt;While there is a long-standing history of research testing the effects of ecological conditions on evolution, these studies have usually been limited to a single species or pair of interacting species. Consequently, we have a limited understanding of how community structure affects the direction and magnitude of selection on functional traits. Given that the loss of biodiversity is simplifying the structure of ecological networks, there is a pressing need to be able to predict how network structure affects evolutionary processes. To begin to understand the relationship between network structure and natural selection, I conducted a field experiment and showed that reducing food-web complexity actually increased the strength and number of traits under selection for a herbivorous insect &lt;a href=&#34;https://figshare.com/articles/Food_web_complexity_reduces_variation_in_herbivore_fitness_among_host_plant_genotypes/1525124&#34; target=&#34;_blank&#34;&gt;(Barbour et al., ESA conference 2015)&lt;/a&gt;. At University of Zurich, I will be conducting lab experiments to explicitly examine how network structure shapes patterns of genetic variation and natural selection on Arabidopsis.
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://mabarbour.github.io/img/intraspecific_network_tiny.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Plant-insect food web aggregated from 26 different genotypes of Salix hookeriana in a common garden experiment. The width of each grey segment is proportional to the number of individuals associated with each trophic interaction.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
